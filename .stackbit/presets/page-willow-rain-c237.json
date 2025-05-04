@@ -1,0 +1,250 @@
+{
+    "model": "page",
+    "srcType": "sanity",
+    "srcProjectId": "99blv994:production",
+    "presets": [
+        {
+            "label": "WILLOW RAIN",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "CLEANING"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "\"Come Home to Clean — Not More Chores. Let Us Handle the Mess, So You Can Rest.\"",
+                "slug": "/",
+                "sections": [
+                    {
+                        "$$type": "heroSection",
+                        "heading": "\"Come Home to Clean — Not More Chores. Let Us Handle the Mess, So You Can Rest.\"",
+                        "body": "At Willow Rain Company, we take the stress out of your day by handling the cleaning, hauling, and landscaping — so you don’t have to.\n\nServing **St. Charles and nearby areas**, our team is trained, reliable, and ready to tackle everything from deep house cleaning to junk removal and yard care. Whether it’s a one-time job or routine service, we show up on time and do it right.\n\n✅ **House Cleaning** – Sparkling results with our Detail-Clean Rotation System.\n\n✅ **Hauling** – Fast, affordable removal of clutter, junk, or yard waste.\n\n✅ **Landscaping** – Mowing, edging, mulching & seasonal cleanups.\n\n\n\n",
+                        "cta": [],
+                        "theme": "dark",
+                        "backgroundImage": {
+                            "$$type": "backgroundImage",
+                            "image": {
+                                "$$ref": "image-81022805cf7cb6b158927ef5958cadaea2a2d953-1000x667-png",
+                                "$$type": "__asset_model"
+                            },
+                            "opacity": 40
+                        },
+                        "width": "inset"
+                    },
+                    {
+                        "$$type": "cardsSection",
+                        "heading": "Why Choose Us?",
+                        "body": "**Because we treat your home like our own — with care, consistency, and a commitment to spotless results every time.**\n\n\n\n",
+                        "items": [
+                            {
+                                "$$type": "card",
+                                "badge": {
+                                    "$$type": "badge",
+                                    "label": "HAULING ",
+                                    "theme": "accent"
+                                },
+                                "heading": " Clear the Clutter — Fast, Reliable Hauling",
+                                "body": "**Whether you're clearing out a garage, renovating your home, or just need junk gone fast — we've got you covered. Willow Rain Company offers dependable, affordable hauling services for residential and commercial clients in St. Charles and surrounding areas.**\n\nWe handle everything from bulky furniture and appliances to yard waste and construction debris. Our team shows up on time, does the heavy lifting, and ensures your space is clean before we leave. No stress, no mess — just quick, efficient hauling you can trust.\n\n",
+                                "cta": [],
+                                "image": {
+                                    "$$type": "customImage",
+                                    "image": {
+                                        "$$ref": "image-f26df5f9053a8428c3f8bfa2e137932e92201a90-1025x625-jpg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "alt": "Alt text for the image"
+                                },
+                                "theme": null,
+                                "textAlign": null,
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "card",
+                                "badge": {
+                                    "$$type": "badge",
+                                    "label": "CLEANING",
+                                    "theme": "primary"
+                                },
+                                "heading": "From Messy to Spotless — We Make It Happen",
+                                "body": "**At Willow Rain Company, we deliver reliable, detailed cleaning tailored to your needs.**\n\nFrom one-time deep cleans to routine maintenance, our team ensures every room is spotless — so you can relax and enjoy a fresh, healthy home.\n\n",
+                                "cta": [],
+                                "image": {
+                                    "$$type": "customImage",
+                                    "image": {
+                                        "$$ref": "image-8fb4c8bc65e7a4aad64877ccb578f0bf7b51f8d1-275x183-jpg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "alt": "Alt text for the image"
+                                },
+                                "theme": null,
+                                "textAlign": null,
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "card",
+                                "badge": {
+                                    "$$type": "badge",
+                                    "label": "LANDSCAPING",
+                                    "theme": "secondary"
+                                },
+                                "heading": "Landscaping That Brings Your Yard to Life",
+                                "body": "**Make your yard stand out with expert landscaping from Willow Rain Company.**\n\nWe offer lawn care, trimming, mulching, and seasonal cleanups to keep your outdoor space looking its best year-round. Reliable, efficient, and always neat — we do the hard work so you don’t have to.\n\n\n\n",
+                                "cta": [],
+                                "image": {
+                                    "$$type": "customImage",
+                                    "image": {
+                                        "$$ref": "image-5b5dac7e4e7b9a215044ac92885180361df59b90-276x183-jpg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "alt": "Alt text for the image"
+                                },
+                                "theme": null,
+                                "textAlign": null,
+                                "hasBorder": true
+                            }
+                        ],
+                        "theme": null,
+                        "backgroundImage": null,
+                        "width": null,
+                        "columns": null
+                    },
+                    {
+                        "$$type": "logosSection",
+                        "heading": "CALL NOW FOR FREE ESTIMATE",
+                        "body": " **Don’t Stress the Mess — Reach Out Now!**\n\n",
+                        "items": [
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-0c1da5bea1e46ef1921079fdb2baea5990d48f0c-197x255-jpg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Unilever logo"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-9b8827521bc938f6defd3217fdd3ef12f858250d-540x540-jpg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Riot Games logo"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-568cb4f1d474a9f8eb05d8d3605002e82780f2af-360x432-webp",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Mattel"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-a55e7f7cc4673c3ce89fa8ad25e7d399cb2c65b7-194x259-jpg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Peloton"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-3752f84ef5c38899e73a73ef017404a49ca709c4-900x600-png",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "WILLOW RAIN CO"
+                            }
+                        ],
+                        "theme": null,
+                        "backgroundImage": null,
+                        "width": null,
+                        "motion": null
+                    },
+                    {
+                        "$$type": "testimonialsSection",
+                        "heading": "What our clients are saying",
+                        "body": " **Hear From the Homes We’ve Helped**\n\n",
+                        "items": [
+                            {
+                                "$$type": "testimonial",
+                                "quote": "⭐️ **\"They did an amazing job cleaning our home — it’s never looked better. Professional, friendly, and fast!\"**\n\n",
+                                "author": {
+                                    "$$ref": "lMC8MEWpxDQXIr8jKbBsuP",
+                                    "$$type": "person"
+                                },
+                                "theme": null,
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "testimonial",
+                                "quote": "⭐️ **\"We needed a full garage cleanout and haul-away — they handled it quickly and left no mess behind!\"**\n\n",
+                                "author": {
+                                    "$$ref": "fdc1ae6e-2f0d-4821-8a47-60eeb3fbf40f",
+                                    "$$type": "person"
+                                },
+                                "theme": "light",
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "testimonial",
+                                "quote": "⭐️ **\"Their landscaping team completely transformed our yard. Clean lines, fresh mulch, and serious curb appeal!\"**\n\n",
+                                "author": {
+                                    "$$ref": "8ysPwHyKiY2JsGjcIjQyYA",
+                                    "$$type": "person"
+                                },
+                                "theme": "light",
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "testimonial",
+                                "quote": "⭐️ **\"Dependable, detailed, and always respectful of our space. I recommend them to all my friends.\"**\n\n",
+                                "author": {
+                                    "$$ref": "8ysPwHyKiY2JsGjcIjR0w8",
+                                    "$$type": "person"
+                                },
+                                "theme": null,
+                                "hasBorder": true
+                            }
+                        ],
+                        "theme": null,
+                        "backgroundImage": null,
+                        "width": null,
+                        "columns": null
+                    },
+                    {
+                        "$$type": "ctaSection",
+                        "heading": "CALL - 1(314)703-2279",
+                        "body": null,
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "EMAIL US ",
+                                "url": "ANTHONYDAVILA@WILLOWRAINCOMPANYCLEANING.COM",
+                                "ariaLabel": null,
+                                "theme": "primary"
+                            }
+                        ],
+                        "theme": "dark",
+                        "backgroundImage": {
+                            "$$type": "backgroundImage",
+                            "image": {
+                                "$$ref": "image-81022805cf7cb6b158927ef5958cadaea2a2d953-1000x667-png",
+                                "$$type": "__asset_model"
+                            },
+                            "opacity": 60
+                        },
+                        "width": "inset"
+                    }
+                ],
+                "metaTitle": "Affordable Home Services in St. Charles – Cleaning, Junk Removal, Lawn Care",
+                "addTitleSuffix": null,
+                "metaDescription": "Professional cleaning, junk hauling, and landscaping in St. Charles. Trusted, affordable, and satisfaction guaranteed. Free estimates available!",
+                "socialImage": {
+                    "$$ref": "image-3752f84ef5c38899e73a73ef017404a49ca709c4-900x600-png",
+                    "$$type": "__asset_model"
+                }
+            },
+            "thumbnail": "images/page-willow-rain-c237.png"
+        }
+    ]
+}
